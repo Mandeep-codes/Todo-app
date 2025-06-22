@@ -1,12 +1,48 @@
-# React + Vite
+# ✅ React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and functional Todo List app built using **React**. This project helps users manage their daily tasks with features like adding, deleting, and toggling completion of todos — all handled with React's component-level state, no Redux involved.
 
-Currently, two official plugins are available:
+🛠️ I built this while learning the fundamentals of React like `useState`, props, component structure, and conditional rendering. It was a great practice project for understanding how React apps manage dynamic user interfaces.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+**🧰 Tech Stack:**  
+React  
+JavaScript  
+CSS 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+**🚀 How to Run Locally:**  
+Clone the repository:  
+`git clone https://github.com/Mandeep-codes/Todo-app.git`  
+`cd Todo-app`
+
+Install dependencies:  
+`npm install`
+
+Start the development server:  
+`npm start`
+
+---
+
+**📦 Features:**  
+- ➕ Add new tasks  
+- ✅ Mark tasks as completed  
+- 🗑️ Delete tasks  
+- 📋 View tasks dynamically based on state  
+- ⚡ Fast and responsive UI
+
+---
+
+**📚 What I Learned:**  
+- React basics: components, props, and JSX  
+- State management using `useState`  
+- Rendering lists and handling events  
+- Structuring a simple single-page app
+
+---
+
+**📄 License:**  
+MIT
+
